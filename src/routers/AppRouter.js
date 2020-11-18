@@ -9,7 +9,7 @@ import PrivateRoute from "./PrivateRoute";
 export const AppRouter = () => {
   const { user } = useContext(AuthContext);
   return (
-    <Router>
+    <Router basename="/Heroes-App">
       <div>
         <Switch>
           <PublicRoute
