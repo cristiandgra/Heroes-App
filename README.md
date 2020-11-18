@@ -1,6 +1,6 @@
 https://cristiandgra.github.io/Heroes-App
 
-![imagen](https://imgur.com/b0d989eb-548b-4c68-9e30-20d98d5fce05)
+![imagen](https://i.imgur.com/2nB5Hyy.png)
 
 # Getting Started with Create React App
 
